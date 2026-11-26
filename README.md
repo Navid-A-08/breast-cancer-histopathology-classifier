@@ -8,7 +8,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-metrics-F7931E?logo=scikitlearn&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-12.1-76B900?logo=nvidia&logoColor=white)
-![License](https://img.shields.io/badge/license-free%20to%20use-brightgreen)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
 
 </div>
 
@@ -166,6 +166,7 @@ Test-2/
 │   ├── checkpoints/best_model.pth
 │   └── logs/
 ├── SETUP_GPU_PC.md             # step-by-step checklist for an NVIDIA machine
+├── LICENSE                     # MIT License
 ├── requirements.txt
 └── README.md
 ```
@@ -319,6 +320,6 @@ The test set is split by patient, so these numbers will usually be **lower** tha
 
 ## License
 
-Free to use. You may use, copy, modify, and share this project for any purpose.
+This project is licensed under the [MIT License](LICENSE).
 
 The BreakHis dataset has its own terms of use, set by its authors. Check them before using or redistributing the data.
